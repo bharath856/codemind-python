@@ -1,4 +1,3 @@
 r=int(input())
-pi=3.14
-are=pi*r*r
-print("%.2f"%are)
+area=3.14*r*r
+print("%.2f"%area)
