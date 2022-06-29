@@ -13,4 +13,3 @@ for i in range(1,a+1):
    if prime(i)!=1 and a%i==0:
        su+=1
 print(su)
-    
